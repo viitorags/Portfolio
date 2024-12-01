@@ -16,3 +16,5 @@ window.addEventListener('scroll', checkVisibility);
 
 // Chama a função uma vez para garantir que os elementos visíveis no carregamento sejam exibidos
 checkVisibility();
+
+document.querySelectorAll('.button-projects button')
